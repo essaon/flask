@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
-##Go to applications server
+## Go to applications server
 ```
 https://127.0.0.1:5000
 ```
